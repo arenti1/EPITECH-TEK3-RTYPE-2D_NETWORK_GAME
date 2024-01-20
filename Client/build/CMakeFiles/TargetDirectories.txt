@@ -1,0 +1,3 @@
+/home/arenti/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Client/build/CMakeFiles/client.dir
+/home/arenti/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Client/build/CMakeFiles/edit_cache.dir
+/home/arenti/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Client/build/CMakeFiles/rebuild_cache.dir

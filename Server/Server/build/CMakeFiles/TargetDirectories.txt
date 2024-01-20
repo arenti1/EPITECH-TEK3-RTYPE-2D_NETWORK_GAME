@@ -1,0 +1,4 @@
+/home/deadeye/Documents/Tek3/R-type/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Server/Server/build/CMakeFiles/server.dir
+/home/deadeye/Documents/Tek3/R-type/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Server/Server/build/CMakeFiles/test.dir
+/home/deadeye/Documents/Tek3/R-type/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Server/Server/build/CMakeFiles/edit_cache.dir
+/home/deadeye/Documents/Tek3/R-type/B-CPP-500-BAR-5-2-rtype-arent.dollapaj/Server/Server/build/CMakeFiles/rebuild_cache.dir
